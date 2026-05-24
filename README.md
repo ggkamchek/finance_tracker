@@ -61,14 +61,4 @@ go test ./...
 - `main.go` - CLI и обработка команд
 - `internal/transactions` - бизнес-логика (CRUD, фильтр, баланс, валидация)
 - `internal/storage` - JSON persistence
-- `docs/practice` - материалы для отчёта по практике
 
-## Материалы практики
-
-- `docs/practice/01_domain_analysis.md` - анализ предметной области
-- `docs/practice/02_requirements.md` - функциональные и нефункциональные требования
-- `docs/practice/03_uml_bpmn.md` - UML/BPMN-диаграммы (mermaid)
-- `docs/practice/04_test_cases.md` - набор тест-кейсов и критерии завершения
-- `docs/practice/05_integration_git.md` - шаги интеграции и Git-стратегия
-- `docs/practice/06_final_report.md` - черновик итогового отчета
-- `docs/practice/07_practice_diary.md` - заполненный дневник практики
